@@ -1,0 +1,5 @@
+data/medium_data.conll
+data/*.vocab
+data/*.txt
+*.pyc
+
